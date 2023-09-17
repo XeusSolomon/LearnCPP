@@ -17,7 +17,8 @@ All work is my own unless otherwise stated.
     - **[02 - Forward Dec &rarr;](./02-Functions/02-forward_dec/)** Get user inputs and sum using functions in two files using forward declarations
     - **[03 - Headers &rarr;](./02-Functions/03-headers/)** Get user inputs and sum using functions across two *.cpp files using headers with guards
 - ### 03 - Debugging
-    - **[Coming Soon]()**
+    - **[00 Example &rarr;](./03-Debugging/00-example/)** Debugging example with gdb
+    - **[01 Add Fix &rarr;](./03-Debugging/01-add_fix/)** Debug a program that was not performing addition correctly
 - ### Makefile
     - **[Configurations &rarr;](/Makefile/)** Ongoing development of makefile for project management
 
