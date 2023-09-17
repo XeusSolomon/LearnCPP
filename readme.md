@@ -19,7 +19,8 @@ All work is my own unless otherwise stated.
 - ### 03 - Debugging
     - **[00 Example &rarr;](./03-Debugging/00-example/)** Debugging example with gdb
     - **[01 Add Fix &rarr;](./03-Debugging/01-add_fix/)** Debug a program that was not performing addition correctly
-    - **[01 Div Fix &rarr;](./03-Debugging/02-div_fix/)** Debug a program that was not performing division correctly
+    - **[02 Div Fix &rarr;](./03-Debugging/02-div_fix/)** Debug a program that was not performing division correctly
+    - **[03 Call Stack &rarr;](./03-Debugging/03-call_stack/)** Illustrate how the call stack works
 - ### Makefile
     - **[Configurations &rarr;](/Makefile/)** Ongoing development of makefile for project management
 
