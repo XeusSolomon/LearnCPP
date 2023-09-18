@@ -23,6 +23,7 @@ All work is my own unless otherwise stated.
     - **[03 Call Stack &rarr;](./03-Debugging/03-call_stack/)** Illustrate how the call stack works
 - ### 04 - Data Types
     - **[01 Calc &rarr;](./04-DataTypes/01-calc/)** Simple calculator program using doubles
+    - **[02 Ball &rarr;](./04-DataTypes/02-ball/)** Calculate height above ground at set time intervals based on user entered starting height
 - ### Makefile
     - **[Configurations &rarr;](/Makefile/)** Ongoing development of makefile for project management
 
