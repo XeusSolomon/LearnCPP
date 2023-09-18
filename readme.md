@@ -21,6 +21,8 @@ All work is my own unless otherwise stated.
     - **[01 Add Fix &rarr;](./03-Debugging/01-add_fix/)** Debug a program that was not performing addition correctly
     - **[02 Div Fix &rarr;](./03-Debugging/02-div_fix/)** Debug a program that was not performing division correctly
     - **[03 Call Stack &rarr;](./03-Debugging/03-call_stack/)** Illustrate how the call stack works
+- ### 04 - Data Types
+    - **[01 Calc &rarr;](./04-DataTypes/01-calc/)** Simple calculator program using doubles
 - ### Makefile
     - **[Configurations &rarr;](/Makefile/)** Ongoing development of makefile for project management
 
