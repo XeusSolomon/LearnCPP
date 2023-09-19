@@ -22,9 +22,10 @@ All work is my own unless otherwise stated.
     - **[02 Div Fix &rarr;](./03-Debugging/02-div_fix/)** Debug a program that was not performing division correctly
     - **[03 Call Stack &rarr;](./03-Debugging/03-call_stack/)** Illustrate how the call stack works
 - ### 04 - Data Types
-    - **[01 Calc &rarr;](./04-DataTypes/01-calc/)** Simple calculator program using doubles
-    - **[02 Ball &rarr;](./04-DataTypes/02-ball/)** Calculate height above ground at set time intervals based on user entered starting height
-    - **[03 Errors &rarr;](./04-DataTypes/03-errors/)** Fixing errors in given program
+    - **[01 Strings &rarr;](./04-DataTypes/01-strings/)** Program that manipulates std::string rather than C-style string
+    - **[02 Calc &rarr;](./04-DataTypes/02-calc/)** Simple calculator program using doubles
+    - **[03 Ball &rarr;](./04-DataTypes/03-ball/)** Calculate height above ground at set time intervals based on user entered starting height
+    - **[04 Errors &rarr;](./04-DataTypes/04-errors/)** Fixing errors in given program
 - ### Makefile
     - **[Configurations &rarr;](/Makefile/)** Ongoing development of makefile for project management
 

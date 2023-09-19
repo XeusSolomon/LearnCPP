@@ -1,5 +1,5 @@
 /**
- * @file    02-ball.cpp
+ * @file    03-ball.cpp
  * @date    2023-09-18
  * @author  xeus.solomon@gmail.com  https://github.com/XeusSolomon/XeusSolomon
  * @brief   Write a short program to simulate a ball being dropped off of a

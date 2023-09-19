@@ -1,5 +1,5 @@
 /**
- * @file    03-errors.cpp
+ * @file    04-errors.cpp
  * @date    2023-09-18
  * @author  xeus.solomon@gmail.com  https://github.com/XeusSolomon/XeusSolomon
  * @brief   Find 3 issues (affecting 4 lines) in the following code.

@@ -1,5 +1,5 @@
 /**
- * @file    01-calc.cpp
+ * @file    02-calc.cpp
  * @date    2023-09-17
  * @author  xeus.solomon@gmail.com  https://github.com/XeusSolomon/XeusSolomon
  * @brief   Write the following program: The user is asked to enter 2 floating 
