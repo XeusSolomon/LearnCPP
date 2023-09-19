@@ -14,5 +14,58 @@
  *              Enter your age: 32
  *              Your age + length of name is: 40
  * 
- * @version 0.1.0
+ * @version 0.3.1
  */
+
+#include <iostream>
+#include <string>
+
+int getName();
+int getAge();
+void printResponse(int, int);
+
+int main()
+{
+    printResponse(getAge(), getName());
+    return 0;
+}
+
+/**
+ * @brief   Gets the number of characters in name entered by user
+ * 
+ * @return  int     the number of characters in the name the user entered
+ */
+int getName()
+{
+    std::cout << "Enter your full name: ";
+    std::string name {};
+    std::getline(std::cin >> std::ws, name);
+    return name.length();
+}
+
+/**
+ * @brief   Get a value for age from user
+ * 
+ * @return  int value entered by user
+ */
+int getAge()
+{
+    std::cout << "Enter your age: ";
+    int age {};
+    std::cin >> age;
+    return age;
+}
+
+/**
+ * @brief   Prints response based on user input
+ * 
+ * @attention   response format: "Your age + length of name is: <age + 
+ *              nameLength>""
+ * 
+ * @param   age         age entered by user
+ * @param   nameLength  number of characters in name entered by user 
+ */
+void printResponse(int age, int nameLength)
+{
+    std::cout << "Your age + length of name is: " << age + nameLength << '\n';
+}
