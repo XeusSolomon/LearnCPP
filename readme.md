@@ -27,6 +27,7 @@ All work is my own unless otherwise stated.
     - **[03 Ball &rarr;](./04-DataTypes/03-ball/)** Calculate height above ground at set time intervals based on user entered starting height
     - **[04 Errors &rarr;](./04-DataTypes/04-errors/)** Fixing errors in given program
 - ### 06 - Operators
-    - **[01 Parity &rarr;](./06-Operators/01-parity/) Test if a user entered int is odd or even
+    - **[01 Parity &rarr;](./06-Operators/01-parity/)** Test if a user entered int is odd or even
+    - **[02 Parity ReWrite &rarr;](./06-Operators/02-parity_rewrite.cpp/)** Rewrite 01-parity.cpp to use the `!` operator in place of the `==` operator
 - ### Makefile
     - **[Configurations &rarr;](/Makefile/)** Ongoing development of makefile for project management
